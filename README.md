@@ -16,7 +16,8 @@
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my Instagram page
 - 📫 How to find me: 
   
-  <p align="center">
+  
+  <p align="left">
     <a href="https://instagram.com/codec.ore">
       <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top margin:6px 4px">
      </a>  
@@ -42,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/frameworks/django.svg" alt="django" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/frameworks/spring_boot.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/services/git.svg" alt="git" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
@@ -61,7 +62,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarsh-jain-790&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarsh-jain-790&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Python-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
