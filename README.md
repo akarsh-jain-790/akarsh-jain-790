@@ -10,21 +10,25 @@
 
 ### My name is Akarsh Jain, and I'm a High School Student at Holy Family Senior Secondary School and a Self-Taught Developer, Currently Learning Android Development focusing on Computer Science.
 
-**About me**
+### About me
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my Instagram page
 - 📫 How to find me: 
-  - :bulb: <a href="https://instagram.com/codec.ore">
-            <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top margin:6px 4px">
-           </a>  
-  - :pencil2: <a href="https://twitter.com/akarsh158">
-                <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
-              </a> 
-  - :office:  <a href="https://in.linkedin.com/in/akarsh-jain-7195721b1">
-                <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top margin:6px 4px">
-              </a> 
+  
+  <p align="center">
+    <a href="https://instagram.com/codec.ore">
+      <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top margin:6px 4px">
+     </a>  
 
+    <a href="https://twitter.com/akarsh158">
+      <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
+    </a> 
+
+    <a href="https://in.linkedin.com/in/akarsh-jain-7195721b1">
+      <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top margin:6px 4px">
+    </a> 
+  </p>
 
 ### - Languages and Tools...
 
