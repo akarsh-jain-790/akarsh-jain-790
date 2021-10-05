@@ -26,7 +26,7 @@
       <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
     </a> 
 
-    <a href="https://in.linkedin.com/in/akarsh-jain-7195721b1">
+    <a href="https://in.linkedin.com/in/akarshjain158">
       <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top margin:6px 4px">
     </a> 
   </p>
