@@ -18,7 +18,7 @@
   
   
   <p align="left">
-    <a href="https://instagram.com/codec.ore">
+    <a href="https://instagram.com/codec_ore">
       <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top margin:6px 4px">
      </a>  
 
