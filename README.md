@@ -8,7 +8,7 @@
 
 # Hey Everyone! :wave:
 
-### My name is Akarsh Jain, and I'm a High School Student at Holy Family Senior Secondary School and a Self-Taught Developer, Currently Learning Android Development focusing on Computer Science.
+### My name is Akarsh Jain, and I'm a High School Student and a Self-Taught Developer, Currently Learning Android Development focusing on Computer Science.
 
 ### About me
 - :zap: I love math, programming, data science, and books
