@@ -30,6 +30,10 @@
     <a href="https://in.linkedin.com/in/akarshjain158">
       <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top margin:6px 4px">
     </a> 
+
+    <a href="mailto:akarsh.work.790@gmail.com">
+      <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/gmail.svg" alt="Linkedin" style="vertical-align:top margin:6px 4px">
+    </a> 
   </p>
 
 ### - Languages and Tools...
