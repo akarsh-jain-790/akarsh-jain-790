@@ -8,7 +8,7 @@
 
 # Hey Everyone! :wave:
 
-### My name is Akarsh Jain a Self-Taught Developer, Currently Learning Flutter focusing on Computer Science.
+### My name is Akarsh Jain a Self-Taught Developer.
 
 ### About me
 - :zap: I love math, programming, data science, and books
