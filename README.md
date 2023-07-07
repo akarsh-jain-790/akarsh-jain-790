@@ -46,6 +46,7 @@
   <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/tools/android_studio.svg" alt="android" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/frameworks/django.svg" alt="django" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/frameworks/flutter.svg" alt="django" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/frameworks/spring_boot.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
