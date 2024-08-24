@@ -19,10 +19,6 @@
   
   
   <p align="left">
-    <a href="https://instagram.com/codec_ore">
-      <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top margin:6px 4px">
-     </a>  
-
     <a href="https://twitter.com/akarsh__jain">
       <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
     </a> 
