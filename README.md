@@ -12,7 +12,7 @@
 
 ### About me
 - :zap: I love math, programming, data science, and books
-- 🔭 I'm a Gold medalist at <a href="https://worldskillsindia.co.in/indiaskillsjunior/">IndiaSkill Juniors 2021 </a>  National App Development Competition
+- 🔭 I'm a 2x Gold medalist at <a href="https://worldskillsindia.co.in/indiaskillsjunior/">IndiaSkill Juniors / WorldSkill India </a>  National App Development Competition
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my Instagram page
 - 📫 How to find me: 
