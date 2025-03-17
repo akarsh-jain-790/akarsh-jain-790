@@ -35,42 +35,37 @@
 ### - Languages and Tools...
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/tools/android_studio.svg" alt="android" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/frameworks/django.svg" alt="django" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/frameworks/flutter.svg" alt="django" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/frameworks/spring_boot.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html">
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js">
+  <img src="https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
+  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="android">
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter">
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="spring_boot">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart">
+  <img src="https://img.shields.io/badge/Elasticsearch-%23000571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="elasticsearch">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git">
+  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash">
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode">
+
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<br></br>
 <p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=akarsh-jain-790&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=akarsh-jain-790&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarsh-jain-790&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Python-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=akarsh-jain-790&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
+  <p align="center">
+    <img align="left" width=396 src="https://nirzak-streak-stats.vercel.app/?user=akarsh-jain-790&theme=dark&hide_border=false">
+    <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=akarsh-jain-790&theme=dark&hide_border=false&include_all_commits=false&count_private=true"><br> <br><br><br><br><br><br><br>
+    <div align=center>
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarsh-jain-790&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
+    </div>
+  </p>
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akarsh-jain-790&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
 <hr>
 
 <!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
