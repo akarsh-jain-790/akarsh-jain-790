@@ -11,28 +11,29 @@
 ### My name is Akarsh Jain a Self-Taught Developer
 
 ### About me
-🚀 Working @Segwise.ai | 2x Gold Medalist at WorldSkills India (App Development)  
-🏆 5x Hackathon Winner | SIH'23 Grand Finalist
-📱 App Developer | Open-Source Contributor 
-🛠️ Full-stack developer who enjoys designing mobile apps and building efficient backend systems  
-☁️ Currently exploring cloud-native development with Go  
-👯 Got a cool idea or hackathon coming up? Ping me — always down to build awesome stuff together!
-🔗 Work: @akarsh-swi
-- 📫 How to find me: 
+- 🚀 Working @Segwise.ai | 2x Gold Medalist at WorldSkills India (App Development)  
+- 🏆 5x Hackathon Winner | SIH'23 Grand Finalist
+- 📱 App Developer | Open-Source Contributor 
+- 🛠️ Full-stack developer who enjoys designing mobile apps and building efficient backend systems  
+- ☁️ Currently exploring cloud-native development with Go  
+- 👯 Got a cool idea or hackathon coming up? Ping me — always down to build awesome stuff together!
+- 🔗 Work: @akarsh-swi
+
+### 📫 How to find me:
   
-  <p align="left">
-    <a href="https://twitter.com/akarsh__jain">
-      <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
-    </a> 
+<p align="left">
+  <a href="https://twitter.com/akarsh__jain">
+    <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
+  </a> 
 
-    <a href="https://in.linkedin.com/in/akarshjain158">
-      <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top margin:6px 4px">
-    </a> 
+  <a href="https://in.linkedin.com/in/akarshjain158">
+    <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top margin:6px 4px">
+  </a> 
 
-    <a href="mailto:akarsh.work.790@gmail.com">
-      <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/gmail.svg" alt="Linkedin" style="vertical-align:top margin:6px 4px">
-    </a> 
-  </p>
+  <a href="mailto:akarsh.work.790@gmail.com">
+    <img src="https://raw.githubusercontent.com/akarsh-jain-790/akarsh-jain-790/main/svg/social/gmail.svg" alt="Linkedin" style="vertical-align:top margin:6px 4px">
+  </a> 
+</p>
 
 ### - Languages and Tools...
 
