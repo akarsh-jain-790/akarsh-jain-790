@@ -11,12 +11,14 @@
 ### My name is Akarsh Jain a Self-Taught Developer
 
 ### About me
-- :zap: I love math, programming, data science, and books
-- 🔭 I'm a 2x Gold medalist at WorldSkill India National App Development Competition
-- 🌱 I’m addicted to learning and growing every day
-- :earth_africa:  5x Hackathon Winner
+🚀 Working @Segwise.ai | 2x Gold Medalist at WorldSkills India (App Development)  
+🏆 5x Hackathon Winner | SIH'23 Grand Finalist
+📱 App Developer | Open-Source Contributor
+🛠️ Full-stack developer who enjoys designing mobile apps and building efficient backend systems  
+☁️ Currently exploring cloud-native development with Go  
+👯 Got a cool idea or hackathon coming up? Ping me — always down to build awesome stuff together!
+🔗 Work: @akarsh-swi
 - 📫 How to find me: 
-  
   
   <p align="left">
     <a href="https://twitter.com/akarsh__jain">
