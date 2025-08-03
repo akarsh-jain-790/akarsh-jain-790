@@ -12,8 +12,8 @@
 
 ### About me
 🚀 Working @Segwise.ai | 2x Gold Medalist at WorldSkills India (App Development)  
-🏆 5x Hackathon Winner | SIH'23 Grand Finalist
-📱 App Developer | Open-Source Contributor
+🏆 5x Hackathon Winner | SIH'23 Grand Finalist 
+📱 App Developer | Open-Source Contributor 
 🛠️ Full-stack developer who enjoys designing mobile apps and building efficient backend systems  
 ☁️ Currently exploring cloud-native development with Go  
 👯 Got a cool idea or hackathon coming up? Ping me — always down to build awesome stuff together!
