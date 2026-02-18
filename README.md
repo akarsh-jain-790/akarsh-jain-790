@@ -55,20 +55,7 @@
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br></br>
-<p align=center>
-  
-  <p align="center">
-    <img align="left" width=396 src="https://nirzak-streak-stats.vercel.app/?user=akarsh-jain-790&theme=dark&hide_border=false">
-    <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=akarsh-jain-790&theme=dark&hide_border=false&include_all_commits=false&count_private=true"><br> <br><br><br><br><br><br><br>
-    <div align=center>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarsh-jain-790&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
-    </div>
-  </p>
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akarsh-jain-790&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-<hr>
+<img align="right" src="https://gitsync.app/api/u/akarsh-jain-790?v=1771440772988">
 
 <!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
