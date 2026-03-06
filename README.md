@@ -55,7 +55,7 @@
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<img align="right" src="https://gitsync.app/api/u/akarsh-jain-790?v=1771440772988">
+<img align="right" src="https://gitsync.app/api/u/akarsh-jain-790?v=1772818308874">
 
 <!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
